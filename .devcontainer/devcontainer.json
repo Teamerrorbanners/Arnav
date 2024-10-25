@@ -8,7 +8,7 @@
     },
     "postStartCommand": "python3 /workspaces/Arnav/sahil.py",
     "customizations": {
-        "vscode": {
+        "vscode": {o
             "settings": {
                 "python.pythonPath": "/usr/local/bin/python"
             },
